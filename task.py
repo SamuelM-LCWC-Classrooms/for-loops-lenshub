@@ -2,11 +2,11 @@ from random import randrange
 
 def task_1(): # Lottery ticket generator
 
-    ticket = []
+    ticket = [print tickets 1, 2, 3, 4, 5, 6]
 
-    # Code here
+    # print tickets= 1,2,3,4,5,6
     
-    return ticket
+    return ticket 1
 
 def task_2(): # Countdown
 
